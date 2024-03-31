@@ -1,0 +1,6 @@
+/client/node_modules
+/comments/node_modules
+/posts/node_modules
+/client/package-lock.json
+/posts/package-lock.json
+/comments/package-lock.json
